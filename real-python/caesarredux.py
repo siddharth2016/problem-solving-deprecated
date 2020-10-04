@@ -18,3 +18,19 @@
     Note: You can assume the plain text is all lowercase ASCII except for
     whitespace and punctuation.
 """
+
+import string
+
+def caesar_cipher(letter, n):
+    table = string.ascii_lowercase[n:] + string.ascii_lowercase[:n]
+    try:
+        index = string.ascii_lowercase.index(letter)
+        return table[index]
+    except ValueError:
+        return letter
+
+if __name__ == "__main__":
+    text = input("Enter text to cipher: ")
+    n = int(input("Enter number to do cipher: "))
+    mod_text = [caesar_cipher(letter, n) for letter in text]
+    print("".join(mod_text))
