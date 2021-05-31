@@ -2,6 +2,7 @@
 # The task is to print fibonacci series in reverse order.
 # So, if the input n == 3, then output should be - 1 1 0
 # Similarly, for n = 6, output - 5 3 2 1 1 0
+# Given first 2 numbers of fibonacci series, a = 0, b = 1
 
 def reverse_fibo_print(a, b, num):
     if (num>1):
