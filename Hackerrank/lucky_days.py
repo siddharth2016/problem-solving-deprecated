@@ -1,5 +1,5 @@
 # Find number of lucky days, where ith day is lucky if following numbers (all) are less than ith day value.
-# [2, 3, 5, 10, 9] - 2 lucky days: 10 and 9 (4th and 5th elements)
+# [2, 3, 5, 10, 9] - 2 lucky days: 10 and 9 (4th and 5th element)
 
 def solve(arr, n):
     i = j = n-1
