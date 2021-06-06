@@ -10,3 +10,6 @@
 - [Array Of N Elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements/problem)
 - [Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem)
 - [Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem)
+- [List Length](https://www.hackerrank.com/challenges/fp-list-length/problem)
+- [Update List](https://www.hackerrank.com/challenges/fp-update-list/problem)
+- [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex/problem)
