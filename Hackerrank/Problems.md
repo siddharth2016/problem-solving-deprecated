@@ -13,3 +13,8 @@
 - [List Length](https://www.hackerrank.com/challenges/fp-list-length/problem)
 - [Update List](https://www.hackerrank.com/challenges/fp-update-list/problem)
 - [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex/problem)
+- [Area Under Curves and Volume of Revolving a Curve](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem)
+- [Functions or Not?](https://www.hackerrank.com/challenges/functions-or-not/problem)
+- [Compute the Perimeter of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem)
+- [Compute the Area of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem)
+- [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)
