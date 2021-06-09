@@ -2,7 +2,7 @@
 
 - [Sales By Match/ Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)([Solution](https://github.com/siddharth2016/problem-solving/blob/master/Hackerrank/sales_by_match.py))
 - [Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first/problem)([Solution](https://github.com/siddharth2016/problem-solving/blob/master/Hackerrank/solve_me_first_fp.scala))
-- [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)([Solution]())
+- [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)([Solution](https://github.com/siddharth2016/problem-solving/blob/master/Hackerrank/hello_world_fp.scala))
 - [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem)
 - [List Replication](https://www.hackerrank.com/challenges/fp-list-replication/problem)
 - [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array/problem)
