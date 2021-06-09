@@ -1,8 +1,8 @@
 ## Problem Solved and Their Question Link.
 
-- [Sales By Match/ Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
-- [Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first/problem)
-- [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)
+- [Sales By Match/ Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)([Solution]())
+- [Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first/problem)([Solution]())
+- [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)([Solution]())
 - [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem)
 - [List Replication](https://www.hackerrank.com/challenges/fp-list-replication/problem)
 - [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array/problem)
