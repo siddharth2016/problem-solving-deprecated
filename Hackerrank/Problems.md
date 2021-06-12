@@ -19,4 +19,4 @@
 - [Compute the Area of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem)
 - [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)
 - [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem)
-- [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)([Solution]())
+- [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)([Solution](./save_the_prisoner.py))
