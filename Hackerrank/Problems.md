@@ -1,11 +1,11 @@
 ## Problem Solved and Their Question Link.
 
-- [Sales By Match/ Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)([Solution](https://github.com/siddharth2016/problem-solving/blob/master/Hackerrank/sales_by_match.py))
-- [Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first/problem)([Solution](https://github.com/siddharth2016/problem-solving/blob/master/Hackerrank/solve_me_first_fp.scala))
-- [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)([Solution](https://github.com/siddharth2016/problem-solving/blob/master/Hackerrank/hello_world_fp.scala))
-- [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem)([Solution](https://github.com/siddharth2016/problem-solving/blob/master/Hackerrank/hello_world_n_times.scala))
-- [List Replication](https://www.hackerrank.com/challenges/fp-list-replication/problem)([Solution](https://github.com/siddharth2016/problem-solving/blob/master/Hackerrank/list_rep_fp.scala))
-- [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array/problem)([Solution](https://github.com/siddharth2016/problem-solving/blob/master/Hackerrank/filter_array_fp.scala))
+- [Sales By Match/ Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)([Solution](./sales_by_match.py))
+- [Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first/problem)([Solution](./solve_me_first_fp.scala))
+- [Hello World](https://www.hackerrank.com/challenges/fp-hello-world/problem)([Solution](./hello_world_fp.scala))
+- [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem)([Solution](./hello_world_n_times.scala))
+- [List Replication](https://www.hackerrank.com/challenges/fp-list-replication/problem)([Solution](./list_rep_fp.scala))
+- [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array/problem)([Solution](./filter_array_fp.scala))
 - [Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem)
 - [Array Of N Elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements/problem)
 - [Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem)
