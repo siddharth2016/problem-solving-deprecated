@@ -1,5 +1,7 @@
 """
 
+Job-A-Thon Internship Question - June, 2021
+
 Problem Statement:
 There are  coins kept in a line. Each coin has two sides - one is colored gold and the other silver. You can flip two adjacent coins any number of times. You need to make the gold-colored side of every coin facing up. You are given the initial status of coins in a binary string  where '1' represents the gold side facing up and '0' represents the silver side facing up. If it is possible to make the gold-colored side of every coin facing up, return "Yes", otherwise return "No".
 
