@@ -9,7 +9,7 @@
 - [Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem)([Solution](./filter_pos_array_fp.scala))
 - [Array Of N Elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements/problem)([Solution](./array_n_elem_fp.scala))
 - [Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem)([Solution](./reverse_a_list_fp.scala))
-- [Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem)([Solution]())
+- [Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem)([Solution](./sum_odd_elem_fp.scala))
 - [List Length](https://www.hackerrank.com/challenges/fp-list-length/problem)([Solution]())
 - [Update List](https://www.hackerrank.com/challenges/fp-update-list/problem)([Solution]())
 - [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex/problem)([Solution]())
