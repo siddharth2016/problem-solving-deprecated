@@ -12,7 +12,7 @@
 - [Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem)([Solution](./sum_odd_elem_fp.scala))
 - [List Length](https://www.hackerrank.com/challenges/fp-list-length/problem)([Solution](./list_length_fp.scala))
 - [Update List](https://www.hackerrank.com/challenges/fp-update-list/problem)([Solution](./update_list_fp.scala))
-- [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex/problem)([Solution]())
+- [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex/problem)([Solution](./eval_ex_fp.scala))
 - [Area Under Curves and Volume of Revolving a Curve](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem)([Solution]())
 - [Functions or Not?](https://www.hackerrank.com/challenges/functions-or-not/problem)([Solution]())
 - [Compute the Perimeter of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem)([Solution]())
