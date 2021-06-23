@@ -15,7 +15,7 @@
 - [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex/problem)([Solution](./eval_ex_fp.scala))
 - [Area Under Curves and Volume of Revolving a Curve](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem)([Solution](./area_under_curves_fp.scala))
 - [Functions or Not?](https://www.hackerrank.com/challenges/functions-or-not/problem)([Solution](./functions_or_not_fp.scala))
-- [Compute the Perimeter of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem)([Solution]())
+- [Compute the Perimeter of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem)([Solution](./compute_perimeter_fp.scala))
 - [Compute the Area of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem)([Solution]())
 - [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)([Solution]())
 - [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem)([Solution]())
