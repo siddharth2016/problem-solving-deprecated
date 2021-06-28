@@ -17,6 +17,6 @@
 - [Functions or Not?](https://www.hackerrank.com/challenges/functions-or-not/problem)([Solution](./functions_or_not_fp.scala))
 - [Compute the Perimeter of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem)([Solution](./compute_perimeter_fp.scala))
 - [Compute the Area of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem)([Solution](./compute_area_fp.scala))
-- [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)([Solution]())
+- [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)([Solution](computing_gcd_fp.scala))
 - [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem)([Solution]())
 - [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)([Solution](./save_the_prisoner.py))
