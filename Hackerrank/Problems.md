@@ -18,5 +18,5 @@
 - [Compute the Perimeter of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem)([Solution](./compute_perimeter_fp.scala))
 - [Compute the Area of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem)([Solution](./compute_area_fp.scala))
 - [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)([Solution](computing_gcd_fp.scala))
-- [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem)([Solution]())
+- [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem)([Solution](string_reduction_fp.scala))
 - [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)([Solution](./save_the_prisoner.py))
