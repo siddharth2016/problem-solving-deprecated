@@ -22,3 +22,4 @@
 - [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)([Solution](./save_the_prisoner.py))
 - [Pascal's Triangle](https://www.hackerrank.com/challenges/pascals-triangle/problem)([Solution]())
 - [String Mingling](https://www.hackerrank.com/challenges/string-mingling/problem)([Solution]())
+- [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)([Solution]())
