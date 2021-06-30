@@ -21,3 +21,4 @@
 - [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem)([Solution](./string_reduction_fp.scala))
 - [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)([Solution](./save_the_prisoner.py))
 - [Pascal's Triangle](https://www.hackerrank.com/challenges/pascals-triangle/problem)([Solution]())
+- [String Mingling](https://www.hackerrank.com/challenges/string-mingling/problem)([Solution]())
