@@ -20,6 +20,6 @@
 - [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem)([Solution](./computing_gcd_fp.scala))
 - [String Reductions](https://www.hackerrank.com/challenges/string-reductions/problem)([Solution](./string_reduction_fp.scala))
 - [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)([Solution](./save_the_prisoner.py))
-- [Pascal's Triangle](https://www.hackerrank.com/challenges/pascals-triangle/problem)([Solution]())
+- [Pascal's Triangle](https://www.hackerrank.com/challenges/pascals-triangle/problem)([Solution](./pascal_triangle.scala))
 - [String Mingling](https://www.hackerrank.com/challenges/string-mingling/problem)([Solution]())
 - [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)([Solution]())
