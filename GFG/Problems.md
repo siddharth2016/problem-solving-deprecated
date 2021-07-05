@@ -1,4 +1,7 @@
 ## Problem Solved and Their Question Link.
 
-- [Count Pairs with Given Sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1#)([Solution](https://github.com/siddharth2016/problem-solving/blob/master/GFG/count_pairs_given_sum.py))
-- [Silver And Gold](https://github.com/siddharth2016/problem-solving/blob/fc3390c1cacb2dace1973b65963c5c46d908e991/GFG/silver_and_gold.py#L3)([Solution](https://github.com/siddharth2016/problem-solving/blob/fc3390c1cacb2dace1973b65963c5c46d908e991/GFG/silver_and_gold.py#L25))
+- [Count Pairs with Given Sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1#)([Solution](./count_pairs_given_sum.py))
+- [Silver And Gold](https://github.com/siddharth2016/problem-solving/blob/fc3390c1cacb2dace1973b65963c5c46d908e991/GFG/silver_and_gold.py#L3)([Solution](./silver_and_gold.py))
+- [Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
+- [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+- [Permutations of a String](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
