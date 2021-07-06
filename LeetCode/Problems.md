@@ -4,7 +4,7 @@
 - [Third Maximum](https://leetcode.com/problems/third-maximum-number/submissions/)([Solution](./third_maximum.py))
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/)([Solution](./move_zeroes.py))
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)([Solution](./rotate_array.py))
-- [Find Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Find Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)([Solution](./find_duplicate_num.py))
 - [Next Permutation](https://leetcode.com/problems/next-permutation/)
 - [Sort an Array of 0's, 1's, 2's](https://leetcode.com/problems/sort-colors/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
