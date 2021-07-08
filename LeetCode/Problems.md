@@ -24,6 +24,6 @@
 - [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [Power of Two](https://leetcode.com/problems/power-of-two/)
-- [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+- [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)([Solution](./sum_2_integers.py))
 - [Remove Duplicates from a Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
