@@ -23,4 +23,4 @@
 - [Pascal's Triangle](https://www.hackerrank.com/challenges/pascals-triangle/problem)([Solution](./pascal_triangle.scala))
 - [String Mingling](https://www.hackerrank.com/challenges/string-mingling/problem)([Solution](./string_mingling.scala))
 - [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem)([Solution](./fibo_num.scala))
-
+- [Append And Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)([Solution](./append_and_delete.py))
