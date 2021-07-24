@@ -7,3 +7,4 @@
 - [Permutations of a String](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
 - [Duplicated in Array](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1#)([Solution](./duplicates_in_array.py))
 - [Minimum Number of Jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1#)([Solution](./minimum_jumps.py))
+- [Generalized Fibo](https://practice.geeksforgeeks.org/problems/generalised-fibonacci-numbers1820/1#)([Solution](./generalized_fibo.py))
