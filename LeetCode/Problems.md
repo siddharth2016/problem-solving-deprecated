@@ -27,4 +27,4 @@
 - [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)([Solution](./sum_2_integers.py))
 - [Remove Duplicates from a Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
-
+- [Minimum Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/)([Solution](./minimum_rungs.py))
