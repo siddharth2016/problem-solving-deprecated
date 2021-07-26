@@ -16,7 +16,7 @@ def it_fibo(n):
         f, s = s, f+s
     return s
 
-print(it_fibo(4), it_fibo(2), it_fibo(3), it_fibo(6))
+print(it_fibo(4), it_fibo(2), it_fibo(3), it_fibo(6), it_fibo(10))
 
 cache = [None]*100
 def dy_fibo(n):
