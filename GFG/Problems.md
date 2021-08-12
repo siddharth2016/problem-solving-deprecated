@@ -11,3 +11,4 @@
 - [Maximum of All Subarrays](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1/?track=sp-arrays-and-searching&batchId=105#)([Solution](./max_of_all_subarrays.py))
 - [Longest Subarray of Even and Odds](https://practice.geeksforgeeks.org/problems/longest-subarray-of-evens-and-odds/1/?track=sp-arrays-and-searching&batchId=105#)([Solution](./longest_subarray_even_odds.py))
 - [Maximum Subarray Sum](https://practice.geeksforgeeks.org/problems/kadanes-algorithm4325/1/#)([Solution](./max_subarray_sum.py))
+- [Smallest Positive Missing Number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/)([Solution](./smallest_positive_missing.py))
