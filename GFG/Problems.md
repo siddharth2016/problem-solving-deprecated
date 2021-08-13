@@ -12,3 +12,4 @@
 - [Longest Subarray of Even and Odds](https://practice.geeksforgeeks.org/problems/longest-subarray-of-evens-and-odds/1/?track=sp-arrays-and-searching&batchId=105#)([Solution](./longest_subarray_even_odds.py))
 - [Maximum Subarray Sum](https://practice.geeksforgeeks.org/problems/kadanes-algorithm4325/1/#)([Solution](./max_subarray_sum.py))
 - [Smallest Positive Missing Number](https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/)([Solution](./smallest_positive_missing.py))
+- [Longest Distinct Subsequence](https://practice.geeksforgeeks.org/problems/longest-substring-without-repeating-characters/1/)([Solution](./longest_distinct_subseq.py))
